@@ -1,0 +1,51 @@
+.heading{
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+#para{
+    color: green;
+    background-color: wheat;
+}
+.p2{
+    color: cadetblue;
+    background-color: yellow;
+}
+#h3{
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
+.label{
+    color: blue;
+}
+.op{
+    color: green;
+}
+p1{
+    color: blueviolet;
+}
+ol{
+    color: chocolate;
+}
+.div{
+    height: 200px;
+    width: 250px;
+    background-color: burlywood;
+    color: black;
+    border: 5px dashed green;
+    margin: 20px;
+}
+#box{
+    height: 200px;
+    width: 250px;
+    background-color: burlywood;
+    color: black;
+    border: 5px dotted black;
+    margin: 20px; 
+}
+.box1{
+    height: 200px;
+    width: 250px;
+    background-color: skyblue;
+    border: 5px solid black;
+    margin: 20px; 
+}
